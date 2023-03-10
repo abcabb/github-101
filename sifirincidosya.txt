@@ -6,4 +6,4 @@ dostlar bilir bu dosyayı
 yaptım bir delilik
 ekledim yine dört satır
 etti boşlukla dokuz
-bu dosyaya biz çok tokuz
+bu dosyaya biz çok tokuz.
